@@ -1,4 +1,4 @@
-# trace.moe-telegram-bot
+# Anime-Finder-telegram-bot
 
 [![License](https://img.shields.io/github/license/soruly/trace.moe-telegram-bot.svg?style=flat-square)](https://github.com/soruly/trace.moe-telegram-bot/blob/master/LICENSE)
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/soruly/trace.moe-telegram-bot/docker-image.yml?style=flat-square)](https://github.com/soruly/trace.moe-telegram-bot/actions)
@@ -8,7 +8,7 @@
 
 This Telegram Bot can tell the anime when you send an screenshot to it
 
-https://telegram.me/WhatAnimeBot
+https://telegram.me/SearchTheAnimeBot
 
 https://user-images.githubusercontent.com/1979746/126060529-8a33523a-967b-48de-9f67-bd0273076e7b.mp4
 
@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/1979746/126060529-8a33523a-967b-48de-9
 
 ## How to use
 
-1. Start chatting with the bot https://telegram.me/WhatAnimeBot
+1. Start chatting with the bot https://telegram.me/SearchTheAnimeBot
 2. Send anime screenshots (images, gif or video) directly to the bot
 3. You may also forward images from other chats to the bot
 4. The bot will tell you the anime, episode, and time code of it
@@ -55,7 +55,7 @@ ANILIST_API_URL=      # (optional) Default: https://graphql.anilist.co/
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/soruly/trace.moe-telegram-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgithub.com%2FQUEEN-NISHIMIYA%2FAnime-Finder)
 
 ### Host with docker
 
